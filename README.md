@@ -1,5 +1,3 @@
 ![Hic sunt dracones](https://hicsuntdra.co/images/hicsuntdracones.png)
 
-![LinkedIn](https://icons8.com/icon/8808/linkedin)
-
-![LinkedIn](https://icons8.com/icon/67673/linkedin)
+[![LinkedIn](https://img.icons8.com/carbon-copy/50/linkedin.png)](https://www.linkedin.com/in/tomislavbacinger/)
